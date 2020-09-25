@@ -7,6 +7,7 @@ public class User {
 
     public User(String name){
         this.name = name;
+        this.age = 20;
     }
 
     public String getName() {
